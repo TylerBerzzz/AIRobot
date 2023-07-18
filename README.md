@@ -1,5 +1,6 @@
 # AIRobot
 This robot was developed in 2018 and documentation originally lived on the hackster.io platform, [here](https://www.hackster.io/104667/airobot-320828). It has been transitioned to my github in 2023.
+![image](https://github.com/TylerBerzzz/AIRobot/assets/30520534/ca2f5003-eb82-48ce-afb0-8d54b27d2a72)
 
 ## Overview on the AiRobot System
 The AiRobot system comprises of a group of networked sensors and a robot. Every device has sensors that deliver temperature, relative humidity, and air quality measurements to the Google IoT Cloud by using the Helium platform.
